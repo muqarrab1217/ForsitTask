@@ -1,0 +1,27 @@
+[
+  {
+    "quantity": 2,
+    "salePrice": 29.99,
+    "saleDate": "2025-05-20T10:30:00Z"
+  },
+  {
+    "quantity": 1,
+    "salePrice": 45.00,
+    "saleDate": "2025-05-21T15:45:00Z"
+  },
+  {
+    "quantity": 3,
+    "salePrice": 65.00,
+    "saleDate": "2025-05-22T12:00:00Z"
+  },
+  {
+    "quantity": 1,
+    "salePrice": 120.00,
+    "saleDate": "2025-05-22T17:20:00Z"
+  },
+  {
+    "quantity": 2,
+    "salePrice": 89.99,
+    "saleDate": "2025-05-23T09:10:00Z"
+  }
+]
